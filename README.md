@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Gareth Hughes
-- 🌱 I’m currently learning GraphQL & React 
+- 🌱 I’m currently learning: Not much... 
 - 📫 How to reach me: https://dotnet.social/@gareth
 - 📫 Trying to blog at: https://garethhughes.dev
 - 📸 My instagram: https://www.instagram.com/garethrhughes/

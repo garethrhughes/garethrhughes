@@ -13,6 +13,11 @@
 
 ### Working on
 
+[Fragile](https://github.com/garethrhughes/fragile)
+
+Fragile is a self-hosted engineering metrics dashboard that connects to a Jira Cloud instance and surfaces DORA metrics, sprint and Kanban planning analytics, cycle time analysis, and roadmap accuracy tracking. It is designed for small engineering teams who want actionable delivery data without leaving their existing Jira workflow.
+
+![https://garethhughes.dev/images/screencapture-localhost-3000-dora-2026-04-15-12_10_43.png](https://garethhughes.dev/images/screencapture-localhost-3000-dora-2026-04-15-12_10_43.png)
 
 [Squirrel Notes](https://squirrelnotes.app/)
 

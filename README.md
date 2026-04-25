@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Agentic AI. 
 - 📫 How to reach me: https://bsky.app/profile/garethrhugh.es
 - 📫 Also on Mastodon: https://aus.social/@gazza
-- 📫 Trying to blog at: https://garethhughes.dev
+- 📫 Trying to blog at: https://garethhughes.dev [![Deploy to GitHub Pages](https://github.com/garethrhughes/garethhughes.dev/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/garethrhughes/garethhughes.dev/actions/workflows/deploy.yml)
 - 📸 My instagram: https://www.instagram.com/garethrhughes/
 - 📸 My photography: https://gareth.photography/
 - 😄 Pronouns: He/Him
@@ -20,6 +20,10 @@ Fragile is a self-hosted engineering metrics dashboard that connects to a Jira C
 ![https://garethhughes.dev/images/screencapture-localhost-3000-dora-2026-04-15-12_10_43.png](https://garethhughes.dev/images/screencapture-localhost-3000-dora-2026-04-15-12_10_43.png)
 
 ### [Squirrel Notes](https://squirrelnotes.app/)
+
+[![Publish MCP to npm](https://github.com/garethrhughes/squirrel-notes/actions/workflows/publish-mcp.yml/badge.svg?branch=main)](https://github.com/garethrhughes/squirrel-notes/actions/workflows/publish-mcp.yml)
+[![Deploy to Test](https://github.com/garethrhughes/squirrel-notes/actions/workflows/deploy-test.yml/badge.svg?branch=main)](https://github.com/garethrhughes/squirrel-notes/actions/workflows/deploy-test.yml)
+[![Deploy to Production](https://github.com/garethrhughes/squirrel-notes/actions/workflows/deploy-production.yml/badge.svg)](https://github.com/garethrhughes/squirrel-notes/actions/workflows/deploy-production.yml)
 
 **A Privacy-First Note-Taking App for ADHD Brains**  
 Squirrel Notes is designed for people with ADHD or anyone who needs a frictionless way to capture, organize, and find their thoughts—all wrapped in a clean, distraction-free interface.

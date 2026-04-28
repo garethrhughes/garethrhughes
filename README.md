@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Agentic AI. 
 - 📫 How to reach me: https://bsky.app/profile/garethrhugh.es
 - 📫 Also on Mastodon: https://aus.social/@gazza
-- 📫 Trying to blog at: https://garethhughes.dev [![Deploy to GitHub Pages](https://github.com/garethrhughes/garethhughes.dev/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/garethrhughes/garethhughes.dev/actions/workflows/deploy.yml)
+- 📫 Blogging at: https://garethhughes.dev 
 - 📸 My instagram: https://www.instagram.com/garethrhughes/
 - 📸 My photography: https://gareth.photography/
 - 😄 Pronouns: He/Him

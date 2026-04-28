@@ -11,6 +11,14 @@
 - 🌍 From: 🇬🇧 Living: 🇦🇺
 - ⚡ Fun fact: I've been Vegan since 2018
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,postgres,aws,vue,react,terraform,ubuntu)](https://skillicons.dev)
+
+## My Past
+
+[![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,coffeescript,jquery,rails)](https://skillicons.dev)
+
 ## Working on
 
 ### [Fragile](https://github.com/garethrhughes/fragile)

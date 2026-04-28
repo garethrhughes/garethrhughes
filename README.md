@@ -13,9 +13,9 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,postgres,aws,vue,react,terraform,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,cs,net,postgres,aws,vue,react,terraform,ubuntu)](https://skillicons.dev)
 
-## My Past
+## Legacy
 
 [![My Skills](https://skillicons.dev/icons?i=php,wordpress,mysql,coffeescript,jquery,rails)](https://skillicons.dev)
 
